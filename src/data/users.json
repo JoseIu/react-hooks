@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1",
+    "name": "Alejandro García",
+    "email": "agarcia@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "2",
+    "name": "María López",
+    "email": "mlopez@example.com",
+    "status": false,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "3",
+    "name": "Carlos Sánchez",
+    "email": "csanchez@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "4",
+    "name": "Laura Fernández",
+    "email": "lfernandez@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "5",
+    "name": "Luis Martínez",
+    "email": "lmartinez@example.com",
+    "status": false,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "6",
+    "name": "Ana Rodríguez",
+    "email": "arodriguez@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "7",
+    "name": "Juan Pérez",
+    "email": "jperez@example.com",
+    "status": false,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "8",
+    "name": "Sofía González",
+    "email": "sgonzalez@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "9",
+    "name": "Pedro Ramírez",
+    "email": "pramirez@example.com",
+    "status": false,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "10",
+    "name": "Elena Torres",
+    "email": "etorres@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "11",
+    "name": "Miguel Rivera",
+    "email": "mrivera@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "12",
+    "name": "Marta Castro",
+    "email": "mcastro@example.com",
+    "status": false,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "13",
+    "name": "Diego Ortiz",
+    "email": "dortiz@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "14",
+    "name": "Paula Ruiz",
+    "email": "pruiz@example.com",
+    "status": false,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "15",
+    "name": "Jorge Herrera",
+    "email": "jherrera@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "16",
+    "name": "Lucía Ramírez",
+    "email": "lramirez@example.com",
+    "status": false,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "17",
+    "name": "Andrés Gómez",
+    "email": "agomez@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "18",
+    "name": "Cristina Méndez",
+    "email": "cmendez@example.com",
+    "status": false,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "19",
+    "name": "José Morales",
+    "email": "jmorales@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "20",
+    "name": "Carmen Cruz",
+    "email": "ccruz@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "21",
+    "name": "Enrique Flores",
+    "email": "eflores@example.com",
+    "status": false,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "22",
+    "name": "Gabriela Navarro",
+    "email": "gnavarro@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "23",
+    "name": "Raúl Serrano",
+    "email": "rserrano@example.com",
+    "status": false,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "24",
+    "name": "Julia Ramos",
+    "email": "jramos@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "25",
+    "name": "Pablo Jiménez",
+    "email": "pjimenez@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "26",
+    "name": "Alicia Vega",
+    "email": "avega@example.com",
+    "status": false,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "27",
+    "name": "Alberto Delgado",
+    "email": "adelgado@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "28",
+    "name": "Natalia Romero",
+    "email": "nromero@example.com",
+    "status": false,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "29",
+    "name": "Manuel Vázquez",
+    "email": "mvazquez@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "30",
+    "name": "Isabel Herrera",
+    "email": "iherrera@example.com",
+    "status": false,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "31",
+    "name": "Ricardo Campos",
+    "email": "rcampos@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "32",
+    "name": "Sara Medina",
+    "email": "smedina@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "33",
+    "name": "Francisco Silva",
+    "email": "fsilva@example.com",
+    "status": false,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "34",
+    "name": "Angela Guerrero",
+    "email": "aguerrero@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "35",
+    "name": "Roberto Espinoza",
+    "email": "respinoza@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "36",
+    "name": "Lorena Núñez",
+    "email": "lnunez@example.com",
+    "status": false,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "37",
+    "name": "Fernando Castro",
+    "email": "fcastro@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "38",
+    "name": "Patricia Soto",
+    "email": "psoto@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "39",
+    "name": "Adrián Morales",
+    "email": "amorales@example.com",
+    "status": false,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "40",
+    "name": "Claudia Reyes",
+    "email": "creyes@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "41",
+    "name": "Gustavo Fuentes",
+    "email": "gfuentes@example.com",
+    "status": false,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "42",
+    "name": "Teresa Peña",
+    "email": "tpena@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "43",
+    "name": "Hugo Salazar",
+    "email": "hsalazar@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "44",
+    "name": "Sandra Molina",
+    "email": "smolina@example.com",
+    "status": false,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "45",
+    "name": "Rafael Cruz",
+    "email": "rcruz@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "46",
+    "name": "Beatriz Castro",
+    "email": "bcastro@example.com",
+    "status": false,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "47",
+    "name": "Sebastián Ortega",
+    "email": "sortega@example.com",
+    "status": true,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "48",
+    "name": "Verónica Vega",
+    "email": "vvega@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "49",
+    "name": "Victor Gómez",
+    "email": "vgomez@example.com",
+    "status": false,
+    "role": "profesor",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "50",
+    "name": "Rosa Méndez",
+    "email": "rmendez@example.com",
+    "status": true,
+    "role": "estudiante",
+    "image": "https://via.placeholder.com/150"
+  }
+]
