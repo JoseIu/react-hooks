@@ -1,0 +1,17 @@
+.nav {
+  background-color: rgba(0, 0, 0, 0.473);
+  & .nav__links {
+    display: flex;
+    gap: 1rem;
+  }
+  & .nav__item {
+  }
+  & .nav__link {
+    font-weight: 600;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.719);
+  }
+  & .nav__link--active {
+    color: white;
+  }
+}
