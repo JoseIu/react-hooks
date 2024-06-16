@@ -9,8 +9,12 @@ body {
   color: white;
   background-color: #0d1117;
 }
+button {
+  background-color: transparent;
+  border: none;
+}
 
-span {
+/* span {
   display: block;
   font-size: 1.2rem;
   font-weight: 600;
@@ -19,4 +23,4 @@ span {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
   gap: 1rem;
-}
+} */
