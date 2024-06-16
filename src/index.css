@@ -13,6 +13,15 @@ button {
   background-color: transparent;
   border: none;
 }
+.wrapper {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+}
+ul {
+  list-style: none;
+}
 
 /* span {
   display: block;
