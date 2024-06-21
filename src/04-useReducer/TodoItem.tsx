@@ -11,10 +11,10 @@ const TodoItem = ({ todo, onDeleteTodo, ontToogleTodo }: TodoItemProps) => {
   const todoClass = done ? 'done' : '';
   return (
     <li className="todos__task">
-      <span className={`todos__text ${todoClass}`} onClick={() => ontToogleTodo(id)}>
+      <span className={`todos__text ${todoClass}`} onClick={() => ontToogleTodo(id)} aria-label="toogle-todo">
         {desc}
       </span>
-      <button className="todos__btn" onClick={() => onDeleteTodo(id)}>
+      <button className="todos__btn" onClick={() => onDeleteTodo(id)} aria-label="toggle-delete">
         delete
       </button>
     </li>
